@@ -42,5 +42,9 @@
   {
     "name": "Scrapy Cat",
     "url": "https://github.com/matteocacciola/cc_scrapycat"
+  },
+  {
+    "name": "Email Monitoring Plugin",
+    "url": "https://github.com/matteocacciola/ccat_email_monitoring"
   }
 ]
