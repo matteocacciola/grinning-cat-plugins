@@ -36,6 +36,10 @@
     "url": "https://github.com/DEH-RAG/guard-plugin"
   },
   {
+    "name": "Educational Exercise Plugin",
+    "url": "https://github.com/DEH-RAG/exercise-generator-plugin"
+  },
+  {
     "name": "Scrapy Cat",
     "url": "https://github.com/matteocacciola/cc_scrapycat"
   }
