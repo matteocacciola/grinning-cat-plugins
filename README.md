@@ -1,6 +1,6 @@
-# The Cheshire Cat Plugin Directory
+# The Grinning Cat Plugin Directory
 
-Welcome to the official plugin directory for the Enterprise version of **The Cheshire Cat**. This repository contains a curated list of plugins that extend the functionality of The Cheshire Cat. Plugin authors are encouraged to contribute their awesome creations to this directory following the guidelines outlined below.
+Welcome to the official plugin directory for the **Grinning Cat**. This repository contains a curated list of plugins that extend the functionality of the Grinning Cat. Plugin authors are encouraged to contribute their awesome creations to this directory following the guidelines outlined below.
 
 This comprises a collection of officially endorsed plugins, curated by the community. However, please note that you have complete freedom to create and share your own plugins anywhere and in any preferred format, including .zip files or private repositories, even if they are not listed here.
 
@@ -69,10 +69,10 @@ git commit -m "Add My awesome plugin"
 
 ## Code of Conduct
 
-As a contributor to the Enterprise vesrion of The Cheshire Cat Plugin Directory, we expect you to follow our [Code of Conduct](https://github.com/matteocacciola/cheshirecat-core/blob/main/CODE-OF-ETHICS.md) at all times. Let's maintain a friendly and welcoming community for everyone.
+As a contributor to the Grinning Cat Plugin Directory, we expect you to follow our [Code of Conduct](https://github.com/matteocacciola/grinning-cat-core/blob/main/CODE-OF-ETHICS.md) at all times. Let's maintain a friendly and welcoming community for everyone.
 
 ## Stay Updated
 
 The plugin directory is likely to grow over time with more exciting contributions. To stay updated, consider starring and following this repository. Additionally, feel free to open issues or discussions for any suggestions, bug reports, or general feedback.
 
-Thank you for contributing to the Enterprise version of The Cheshire Cat Plugin Directory! Happy coding! 😺🎉
+Thank you for contributing to the Grinning Cat Plugin Directory! Happy coding! 😺🎉
