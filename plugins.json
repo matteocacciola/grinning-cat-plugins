@@ -58,5 +58,29 @@
   {
     "name": "Cat With Google Drive",
     "url": "https://github.com/matteocacciola/cat_with_google_drive"
+  },
+  {
+    "name": "Wonderland Weather",
+    "url": "https://github.com/matteocacciola/cat-wonderland-weather"
+  },
+  {
+    "name": "ReAct Agent — Grinning Cat Plugin",
+    "url": "https://github.com/matteocacciola/cat-react"
+  },
+  {
+    "name": "Cat Latest News",
+    "url": "https://github.com/matteocacciola/cat-latest-news"
+  },
+  {
+    "name": "Grinning Cat ReRanker",
+    "url": "https://github.com/matteocacciola/ccat-reranker"
+  },
+  {
+    "name": "Cat Search",
+    "url": "https://github.com/matteocacciola/cat-search"
+  },
+  {
+    "name": "Cat Haloperidol",
+    "url": "https://github.com/matteocacciola/cat-haloperidol"
   }
 ]
