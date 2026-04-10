@@ -90,5 +90,9 @@
   {
     "name": "Cat GraphRAG",
     "url": "https://github.com/matteocacciola/cat-graphrag"
+  },
+  {
+    "name": "Grinning Cat Ollama",
+    "url": "https://github.com/matteocacciola/grinning_cat_ollama"
   }
 ]
