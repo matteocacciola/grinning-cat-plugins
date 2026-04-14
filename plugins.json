@@ -94,5 +94,9 @@
   {
     "name": "Grinning Cat Ollama",
     "url": "https://github.com/matteocacciola/grinning_cat_ollama"
+  },
+  {
+    "name": "Cat_alog",
+    "url": "https://github.com/DEH-RAG/cat_alog"
   }
 ]
