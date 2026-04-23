@@ -98,5 +98,9 @@
   {
     "name": "Cat Alog",
     "url": "https://github.com/DEH-RAG/cat_alog"
+  },
+  {
+    "name": "Agent Skills Plugin for Grinning Cat",
+    "url": "https://github.com/matteocacciola/cat-agent-skills-plugin"
   }
 ]
